@@ -1,0 +1,6 @@
+SCOREP_REGION_NAMES_BEGIN
+   EXCLUDE
+      hypre_Free*
+      hypre_MAlloc*
+      hypre_CAlloc*
+SCOREP_REGION_NAME_END
