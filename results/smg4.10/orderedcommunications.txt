@@ -1,75 +1,75 @@
-CP1: (1)
+CP1: (1) Events: 8, Processes: 4
 [P0:ALLGATHERV.ALLGATHER., P1:ALLGATHERV.ALLGATHER., P2:ALLGATHERV.ALLGATHER., P3:ALLGATHERV.ALLGATHER.]
 -----------------------------------
-CP2: (2101)
+CP2: (2101) Events: 24, Processes: 4
 [P0:S1.S2.S3.R1.R2.R3., P1:S0.S2.S3.R0.R2.R3., P2:S0.S1.S3.R0.R1.R3., P3:S0.S1.S2.R0.R1.R2.]
 -----------------------------------
-CP3: (3)
+CP3: (3) Events: 8, Processes: 4
 [P0:ALLREDUCE.ALLREDUCE., P1:ALLREDUCE.ALLREDUCE., P2:ALLREDUCE.ALLREDUCE., P3:ALLREDUCE.ALLREDUCE.]
 -----------------------------------
-CP4: (963)
+CP4: (963) Events: 4, Processes: 2
 [P0:S1.R1., P1:S0.R0.]
 -----------------------------------
-CP5: (648)
+CP5: (648) Events: 4, Processes: 2
 [P2:S3.R3., P3:S2.R2.]
 -----------------------------------
-CP6: (511)
+CP6: (511) Events: 2, Processes: 2
 [P0:R2., P2:S0.]
 -----------------------------------
-CP7: (511)
+CP7: (511) Events: 2, Processes: 2
 [P1:R3., P3:S1.]
 -----------------------------------
-CP8: (9385)
+CP8: (9385) Events: 2, Processes: 2
 [P0:R1., P1:S0.]
 -----------------------------------
-CP9: (7960)
+CP9: (7960) Events: 2, Processes: 2
 [P2:R3., P3:S2.]
 -----------------------------------
-CP10: (7960)
+CP10: (7960) Events: 2, Processes: 2
 [P2:S3., P3:R2.]
 -----------------------------------
-CP11: (9385)
+CP11: (9385) Events: 2, Processes: 2
 [P0:S1., P1:R0.]
 -----------------------------------
-CP12: (502)
+CP12: (502) Events: 2, Processes: 2
 [P0:S2., P2:R0.]
 -----------------------------------
-CP13: (502)
+CP13: (502) Events: 2, Processes: 2
 [P1:S3., P3:R1.]
 -----------------------------------
-CP14: (18)
+CP14: (18) Events: 16, Processes: 4
 [P0:S1.R1.R2.R3., P1:S0.R0.R2.R3., P2:S0.S1.S3.R3., P3:S0.S1.S2.R2.]
 -----------------------------------
-CP15: (18)
+CP15: (18) Events: 16, Processes: 4
 [P0:S1.S2.S3.R1., P1:S0.S2.S3.R0., P2:S3.R0.R1.R3., P3:S2.R0.R1.R2.]
 -----------------------------------
-CP16: (9)
+CP16: (9) Events: 12, Processes: 4
 [P0:S1.R1.R2.R3., P1:S0.R0.R2.R3., P2:S0.S1., P3:S0.S1.]
 -----------------------------------
-CP17: (18)
+CP17: (18) Events: 12, Processes: 4
 [P0:S1.S2.S3.R1., P1:S0.S2.S3.R0., P2:R0.R1., P3:R0.R1.]
 -----------------------------------
-CP18: (9)
+CP18: (9) Events: 8, Processes: 4
 [P0:R2.R3., P1:R2.R3., P2:S0.S1., P3:S0.S1.]
 -----------------------------------
-CP19: (9)
+CP19: (9) Events: 8, Processes: 4
 [P0:S2.S3., P1:S2.S3., P2:R0.R1., P3:R0.R1.]
 -----------------------------------
-CP20: (380)
+CP20: (380) Events: 4, Processes: 2
 [P0:S2.R2., P2:S0.R0.]
 -----------------------------------
-CP21: (380)
+CP21: (380) Events: 4, Processes: 2
 [P1:S3.R3., P3:S1.R1.]
 -----------------------------------
-CP22: (182)
+CP22: (182) Events: 16, Processes: 4
 [P0:S1.S2.R1.R2., P1:S0.S3.R0.R3., P2:S0.S3.R0.R3., P3:S1.S2.R1.R2.]
 -----------------------------------
-CP23: (380)
+CP23: (380) Events: 20, Processes: 4
 [P0:S1.S2.S3.R1.R2.R3., P1:S0.S2.S3.R0.R2.R3., P2:S0.S1.R0.R1., P3:S0.S1.R0.R1.]
 -----------------------------------
-CP24: (380)
+CP24: (380) Events: 16, Processes: 4
 [P0:S2.S3.R2.R3., P1:S2.S3.R2.R3., P2:S0.S1.R0.R1., P3:S0.S1.R0.R1.]
 -----------------------------------
-CP25: (7)
+CP25: (7) Events: 4, Processes: 4
 [P0:ALLREDUCE., P1:ALLREDUCE., P2:ALLREDUCE., P3:ALLREDUCE.]
 -----------------------------------
